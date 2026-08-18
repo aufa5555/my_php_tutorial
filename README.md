@@ -1,11 +1,1 @@
-[tuto#1.php](https://github.com/user-attachments/files/31152092/tuto.1.php)
-[tuto#3.php](https://github.com/user-attachments/files/31152097/tuto.3.php)
-[tuto#4.php](https://github.com/user-attachments/files/31152129/tuto.4.php)
-[tuto#5.php](https://github.com/user-attachments/files/31152143/tuto.5.php)
-[tuto#6.php](https://github.com/user-attachments/files/31152145/tuto.6.php)
-[tuto#7.php](https://github.com/user-attachments/files/31152152/tuto.7.php)
-[tuto#8.php](https://github.com/user-attachments/files/31152157/tuto.8.php)
-[tuto#9.php](https://github.com/user-attachments/files/31152163/tuto.9.php)
-[tuto#10.php](https://github.com/user-attachments/files/31152191/tuto.10.php)
-
 
